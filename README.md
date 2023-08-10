@@ -1,4 +1,5 @@
-# Hypothesis Testing
+# Hypothesis Testing for TikTok Data 📊
+
 A statistical procedure that uses sample data to evaluate an assumption about a population parameter
 
 *  **The purpose** of this project is to demostrate knowledge of how to prepare, create, and analyze hypothesis tests.
