@@ -1,5 +1,20 @@
 # Hypothesis Testing for TikTok Data 📊
 
+<div align="left">
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768B?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white)](https://www.scipy.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2318BDBB?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
+<a href="https://colab.research.google.com/drive/164K0uVfiyaoaw5eurcD6uRcYUBKl1eze#scrollTo=HLhV9YACjlC4">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
+</a>
+
+</div>
+
 A statistical procedure that uses sample data to evaluate an assumption about a population parameter
 
 *  **The purpose** of this project is to demostrate knowledge of how to prepare, create, and analyze hypothesis tests.
